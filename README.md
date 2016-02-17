@@ -17,10 +17,14 @@
 
 ### [Session 1: 8.30am - 9.45am](./sessions/session1/)
 
-+ Data Analysis Value Chain
++ Demo
+    + R as a calculator
+    + Nobel prize
+    + k-means example
 + Customizing the RStudio Environment
 + Creating and Managing a RStudio Project
 + Installing and Loading ```packages```
++ Locating Help
 
 #### Break: 15 minutes
 
@@ -32,14 +36,15 @@
 
 ### [Session 3: 11.15am - 12.15pm](./sessions/session3/)
 
-+ Functions
-+ `apply` family
++ Functions: for, if-else, while
++ `apply` family: apply, sapply, lapply
 
 #### Break: 15 minutes
 
 ### [Session 4: 12.30pm - 1.30pm](./sessions/session4/)
 
-+ Graphics
++ Plotting graphics: histogram, boxplot, scatterplot, line graphs, qqplot
++ RMarkdown + knitr
 
 ---
 
