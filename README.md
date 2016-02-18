@@ -15,12 +15,12 @@
 1. Install R - http://www.r-project.org/
 2. Install RStudio - http://www.rstudio.com/products/rstudio/download/
 
-### [Session 1: 8.30am - 9.45am](./sessions/session1/)
+### Session 1: 8.30am - 10am
 
 + Demo
     + R as a calculator
-    + Nobel prize
     + k-means example
+    + Nobel prize
 + Customizing the RStudio Environment
 + Creating and Managing a RStudio Project
 + Installing and Loading ```packages```
@@ -28,23 +28,22 @@
 
 #### Break: 15 minutes
 
-### [Session 2: 10am - 11am](./sessions/session2/)
+### Session 2: 10.15am - 11.30am
 
++ Reading Data into R
 + Data Structures
 
-#### Break: 15 minutes
+#### Break: 15 mins
 
-### [Session 3: 11.15am - 12.15pm](./sessions/session3/)
+### Session 3: 11.45am - 12.45pm
 
++ RMarkdown
 + Functions: for, if-else, while
-+ `apply` family: apply, sapply, lapply
++ Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
 
-#### Break: 15 minutes
+### Session 4: 12.45pm - 1.30pm
 
-### [Session 4: 12.30pm - 1.30pm](./sessions/session4/)
-
-+ Plotting graphics: histogram, boxplot, scatterplot, line graphs, qqplot
-+ RMarkdown + knitr
++ Breakout session
 
 ---
 
