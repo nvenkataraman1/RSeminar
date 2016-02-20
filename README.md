@@ -38,7 +38,7 @@
 ### Session 3: 12pm - 1pm
 
 + RMarkdown
-+ Functions: for, if-else, while
++ Functions and Control Structures: for, if-else, while
 + Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
 
 ### Session 4: 1pm - 1.30pm

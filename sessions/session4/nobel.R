@@ -16,8 +16,3 @@ url.country <- "http://api.nobelprize.org/v1/country.csv"
 
 nobel.country <- read.csv(url.country)
 
-table(nobel.laureate$gender)
-
-t <- table(nobel.laureate$bornCountry)
-
-nobel.df <- data.frame(t)
