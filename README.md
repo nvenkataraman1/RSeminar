@@ -18,9 +18,9 @@
 ### Session 1: 8.30am - 10am
 
 + Demo
-    + R as a calculator
-    + k-means example
-    + Nobel prize
+    + Analytical Tool
+    + Statistical Analysis
+    + Data Mining: k-means clustering
 + Customizing the RStudio Environment
 + Creating and Managing a RStudio Project
 + Installing and Loading ```packages```
@@ -28,22 +28,22 @@
 
 #### Break: 15 minutes
 
-### Session 2: 10.15am - 11.30am
+### Session 2: 10.15am - 11.45am
 
 + Reading Data into R
 + Data Structures
 
 #### Break: 15 mins
 
-### Session 3: 11.45am - 12.45pm
+### Session 3: 12pm - 1pm
 
 + RMarkdown
 + Functions: for, if-else, while
 + Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
 
-### Session 4: 12.45pm - 1.30pm
+### Session 4: 1pm - 1.30pm
 
-+ Breakout session
++ Breakout session and Q&A
 
 ---
 
