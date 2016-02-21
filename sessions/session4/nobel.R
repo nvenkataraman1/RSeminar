@@ -1,5 +1,7 @@
 ## Short demo of R using Nobel Prize data
 
+library(dplyr)
+
 url.prize <- "http://api.nobelprize.org/v1/prize.csv"
 
 nobel.prize <- read.csv(url.prize)
