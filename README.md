@@ -1,6 +1,6 @@
 ---
 
-![UChicago](./img/UChicagoLogo.png)
+![](./img/UChicagoLogo.png)
 
 ---
 
@@ -28,20 +28,20 @@
 
 #### Break: 15 minutes
 
-### Session 2: 10.15am - 11.45am
+### Session 2: 10.15am - 11.30am
 
 + Reading Data into R
 + Data Structures
 
-#### Break: 15 mins
+#### Lunch: 45 mins
 
-### Session 3: 12pm - 1pm
+### Session 3: 12.15pm - 1.15pm
 
 + RMarkdown
 + Functions and Control Structures: for, if-else, while
 + Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
 
-### Session 4: 1pm - 1.30pm
+### Session 4: 1.15pm - 1.30pm
 
 + Breakout session and Q&A
 
