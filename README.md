@@ -4,7 +4,7 @@
 
 ---
 
-#### Materials for the R Programming Seminar - Spring 2016 - 2/20/2016
+#### Materials for the R Programming Seminar - Autumn 2016
 
 ---
 
