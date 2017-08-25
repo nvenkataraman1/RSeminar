@@ -1,10 +1,8 @@
 ---
-
-![](./img/UChicagoLogo.png)
-
+output: html_document
 ---
 
-#### Materials for the R Programming Seminar - Autumn 2016
+#### Materials for the R Programming Seminar - Autumn 2017
 
 ---
 
