@@ -2,6 +2,10 @@
 output: html_document
 ---
 
+![](./img/UChicagoLogo.png)
+
+---
+
 #### Materials for the R Programming Seminar - Autumn 2017
 
 ---
