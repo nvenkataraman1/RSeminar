@@ -21,6 +21,7 @@
     + Analytical Tool
     + Statistical Analysis
     + Data Mining: k-means clustering
++ Resources
 + Customizing the RStudio Environment
 + Creating and Managing a RStudio Project
 + Installing and Loading ```packages```
@@ -40,6 +41,7 @@
 + RMarkdown
 + Functions and Control Structures: for, if-else, while
 + Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
++ Introduction to ggplot2
 
 ### Session 4: 2.30pm - 3pm
 
