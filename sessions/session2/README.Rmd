@@ -1,7 +1,7 @@
 ---
 title: "Session 2 - Reading Data and Data Structures in R"
 author: "Naveen Venkataraman"
-date: "August 20, 2016"
+date: "August 26, 2017"
 output: html_document
 ---
 

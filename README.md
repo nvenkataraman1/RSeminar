@@ -1,6 +1,3 @@
----
-output: html_document
----
 
 ![](./img/UChicagoLogo.png)
 
@@ -17,8 +14,9 @@ output: html_document
 1. Install R - http://www.r-project.org/
 2. Install RStudio - http://www.rstudio.com/products/rstudio/download/
 
-### Session 1: 8.30am - 10am
+### Session 1: 9am - 10.30am
 
++ Introductions
 + Demo
     + Analytical Tool
     + Statistical Analysis
@@ -30,22 +28,22 @@ output: html_document
 
 #### Break: 15 minutes
 
-### Session 2: 10.15am - 11.30am
+### Session 2: 10.45am - Noon
 
 + Reading Data into R
 + Data Structures
 
-#### Lunch: 45 mins
+#### Lunch: 1 hour
 
-### Session 3: 12.15pm - 1.15pm
+### Session 3: 1pm - 2.30pm
 
 + RMarkdown
 + Functions and Control Structures: for, if-else, while
 + Plotting graphics: histogram, density, boxplot, scatterplot, line graphs
 
-### Session 4: 1.15pm - 1.30pm
+### Session 4: 2.30pm - 3pm
 
-+ Breakout session and Q&A
++ Practice session and Q&A
 
 ---
 
